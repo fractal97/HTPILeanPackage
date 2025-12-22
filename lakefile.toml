@@ -19,3 +19,7 @@ moreLeanArgs = ["-Dlinter.unusedVariables=false",
 [[lean_lib]]
 name = "StudentWork"
 roots = ["Blank", "Chap3Ex", "Chap4Ex", "Chap5Ex", "Chap6Ex", "Chap7Ex", "Chap8Ex"]
+
+[[lean_exe]]
+name = "fizzbuzz"
+root = "fizzbuzz"
